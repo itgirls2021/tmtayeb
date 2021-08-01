@@ -1,3 +1,10 @@
 h1 {color:black ; background-color:burlywood ;font-family: 'Style Script', cursive ; }
 h2 {color:black ; background-color:rosybrown }
 body {color:black ; font-family: 'Signika Negative', sans-serif; } 
+
+nav {background-color: white;}
+
+nav a {color:wheat}
+nav {color:whitesmoke}
+
+nav a:hover {background-color:whitesmoke;}
