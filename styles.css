@@ -2,7 +2,9 @@ h1 {color:black ; background-color:burlywood ;font-family: 'Style Script', cursi
 h2 {color:black ; background-color:rosybrown }
 body {color:black ; font-family: 'Signika Negative', sans-serif; } 
 
-nav {background-color: white;}
+nav {padding: 10px;
+    margin-bottom: 30px;
+    background-color: white;}
 
 nav a {color:wheat}
 nav {color:whitesmoke}
