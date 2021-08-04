@@ -7,6 +7,13 @@ nav {padding: 10px;
     background-color: white;}
 
 nav a {color:wheat}
-nav {color:whitesmoke}
+ nav {color:whitesmoke}
 
 nav a:hover {background-color:whitesmoke;}
+
+div { border:1px solid black;
+     padding: 10px;
+     margin-bottom: 30px;
+     background-color: white; 
+     border-radius: 25px;
+}
